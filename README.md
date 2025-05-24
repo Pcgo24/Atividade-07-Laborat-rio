@@ -24,8 +24,8 @@
 
 * PHP
 * Laravel
-* Bootstrap (via CDN)
-* MySQL ou outro banco compatível
+* Bootstrap
+* MySQL
 
 ---
 
